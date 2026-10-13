@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayesha4495.github.io/my-new-website/sitemap.xml
